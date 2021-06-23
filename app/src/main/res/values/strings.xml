@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BstXposedDemo</string>
+    <string name="btn_setup_xposed">启动Xposed模块</string>
+</resources>
